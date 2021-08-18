@@ -18,6 +18,8 @@
     border-radius: 5px;
     border: none;
     padding: 5px 15px;
+    background-color: #333;
+    color: lightgrey;
     }
 
     .signupScreen > form > button {
@@ -43,12 +45,18 @@
         margin-top: 30px;
        
     }
-
+    
+    .signupScreen > form > h5 {
+        text-align: left;
+        margin-top: 30px;
+        color: #000;
+       
+    }
     .signupScreen__gray {
         color: gray;
     }
 
     .signupScreen__link:hover {
     cursor: pointer;
-    text-decoration: underline;
+     text-decoration: underline;
     }
