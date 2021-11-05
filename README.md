@@ -1,6 +1,6 @@
 
 Access the build here:
-(netflix-clone-c3864.web.app)
+[Link to Netflix Clone Website](netflix-clone-c3864.web.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
