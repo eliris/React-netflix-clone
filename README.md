@@ -9,4 +9,4 @@ The movie list and images are pulled from the TMDB API
 ##Link to website
 
 Access the build here:
-[Link to Netflix Clone Website](netflix-clone-c3864.web.app)
+[Link to Netflix Clone Website](http://netflix-clone-c3864.web.app)
