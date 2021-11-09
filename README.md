@@ -3,8 +3,8 @@
 
 ## About
 
-This is a clone of the Netflix online app using React.js for front-end and firebase for authentication.
-The movie list and images are pulled from the TMDB API
+This is a clone of the Netflix online app using React.js for front-end and firebase for the user authentication system.
+The movie list and images are dynamically pulled from the TMDB API
 
 ##Link to website
 
